@@ -2,6 +2,7 @@
 class Employee {
   // Properties
   String task;
+  
   int time;
 
   // Constructor
